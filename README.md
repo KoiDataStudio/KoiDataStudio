@@ -1,6 +1,6 @@
-- 👋 Hi, welcome to @KoiDataStudio
-- 👀 We're here to help businesses take control of their data!
-- 📫 Twitter: @KoiDataStudio | Email: support@koidata.studio
+👋 Hi, we're KoiDataStudio
+👀 We're here to help businesses take control of their data!
+📫 Twitter: @KoiDataStudio | Email: support@koidata.studio
 
 <!---
 KoiDataStudio/KoiDataStudio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
